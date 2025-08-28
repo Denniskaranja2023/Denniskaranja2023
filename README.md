@@ -37,12 +37,12 @@
 
 ### 📌 Pinned Repositories
 
-- [Soko Huru free-market app](https://github.com/Denniskaranja2023/soko-huru-project)
-- [Chama Imara SACCO Manager](https://github.com/Denniskaranja2023/ChamaImara-SACCO-Manager)
-- [Bulls Eye goal planner](https://github.com/Denniskaranja2023/BullsEye-goal-planner)
-- [Write Pro Blog manager](https://github.com/Denniskaranja2023/Week-3-Code-Challenge)
-- [Invite Manager App](https://github.com/Denniskaranja2023/Week-2-Code-challenge)
-- [Better Care Hospital admissions](https://github.com/Denniskaranja2023/BetterCare_Hospital_admissions)
+- [Soko Huru free-market app-built on REACT](https://github.com/Denniskaranja2023/soko-huru-project)
+- [Chama Imara SACCO Manager-built on vanilla JS](https://github.com/Denniskaranja2023/ChamaImara-SACCO-Manager)
+- [Bulls Eye goal planner-built on REACT](https://github.com/Denniskaranja2023/BullsEye-goal-planner)
+- [Write Pro Blog manager-built on vanilla JS](https://github.com/Denniskaranja2023/Week-3-Code-Challenge)
+- [Invite Manager App-built on vanilla JS](https://github.com/Denniskaranja2023/Week-2-Code-challenge)
+- [Better Care Hospital admissions-built on Python and SQLAlchemy](https://github.com/Denniskaranja2023/BetterCare_Hospital_admissions)
 
 ---
 
