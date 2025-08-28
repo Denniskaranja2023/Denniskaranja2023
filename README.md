@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+
 </p>
 
 ---
