@@ -37,6 +37,7 @@
 - [Bulls Eye goal planner](https://github.com/Denniskaranja2023/BullsEye-goal-planner)
 - [Write Pro Blog manager](https://github.com/Denniskaranja2023/Week-3-Code-Challenge)
 - [Invite Manager App](https://github.com/Denniskaranja2023/Week-2-Code-challenge)
+- [Better Care Hospital admissions](https://github.com/Denniskaranja2023/BetterCare_Hospital_admissions)
 
 ---
 
