@@ -44,7 +44,9 @@
 - [Write Pro Blog manager-built on vanilla JS](https://github.com/Denniskaranja2023/Week-3-Code-Challenge)
 - [Invite Manager App-built on vanilla JS](https://github.com/Denniskaranja2023/Week-2-Code-challenge)
 - [Better Care Hospital admissions-built on Python and SQLAlchemy](https://github.com/Denniskaranja2023/BetterCare_Hospital_admissions)
-- [IntegriGrade school reporting system-Full Stack application(REACT frontend, FLASK backend, PostgreSQL database](https://github.com/Denniskaranja2023/IntegriGrade_phase_4_project) 
+- [IntegriGrade school reporting system-Full Stack application(REACT frontend, FLASK backend, PostgreSQL database](https://github.com/Denniskaranja2023/IntegriGrade_phase_4_project)
+- [SkillBridge client-freelancer platform-Full Stack application(REACT frontend, FLASK backend, PostgreSQL database]() 
+
 
 ---
 
