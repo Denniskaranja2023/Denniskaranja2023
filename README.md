@@ -62,4 +62,4 @@
 
 ### 🚀 Current Projects
 
-- 🔍 Exploring Python in depth
+- 🔍 [BuildSync project: An application to manage all the needs of a construction company](https://github.com/Denniskaranja2023/BuildSync)
