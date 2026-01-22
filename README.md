@@ -38,14 +38,16 @@
 
 ### 📌 Pinned Repositories
 
+- [QuickBite food ordering application: Full Stack application(REACT frontend, FLASK backend, PostgreSQL database](https://github.com/Denniskaranja2023/QuickBite)
+- [Better Care Hospital admissions-built on Python and SQLAlchemy](https://github.com/Denniskaranja2023/BetterCare_Hospital_admissions)
+- [IntegriGrade school reporting system-Full Stack application(REACT frontend, FLASK backend, PostgreSQL database](https://github.com/Denniskaranja2023/IntegriGrade_phase_4_project)
+- [SkillBridge client-freelancer platform-Full Stack application(REACT frontend, FLASK backend, PostgreSQL database](https://github.com/Denniskaranja2023/SkillBridge_project) 
 - [Soko Huru free-market app-built on REACT](https://github.com/Denniskaranja2023/soko-huru-project)
 - [Chama Imara SACCO Manager-built on vanilla JS](https://github.com/Denniskaranja2023/ChamaImara-SACCO-Manager)
 - [Bulls Eye goal planner-built on REACT](https://github.com/Denniskaranja2023/BullsEye-goal-planner)
 - [Write Pro Blog manager-built on vanilla JS](https://github.com/Denniskaranja2023/Week-3-Code-Challenge)
 - [Invite Manager App-built on vanilla JS](https://github.com/Denniskaranja2023/Week-2-Code-challenge)
-- [Better Care Hospital admissions-built on Python and SQLAlchemy](https://github.com/Denniskaranja2023/BetterCare_Hospital_admissions)
-- [IntegriGrade school reporting system-Full Stack application(REACT frontend, FLASK backend, PostgreSQL database](https://github.com/Denniskaranja2023/IntegriGrade_phase_4_project)
-- [SkillBridge client-freelancer platform-Full Stack application(REACT frontend, FLASK backend, PostgreSQL database](https://github.com/Denniskaranja2023/SkillBridge_project) 
+
 
 
 ---
